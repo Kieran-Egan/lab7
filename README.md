@@ -1,4 +1,4 @@
-# Kieran Egan
-# EECS348
-# lab7
-# March 25, 2025
+## Kieran Egan
+## EECS348
+## lab7
+## March 25, 2025
